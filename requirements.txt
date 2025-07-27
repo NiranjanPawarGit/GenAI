@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+gradio
+sentence-transformers
+matplotlib
+scikit-learn
